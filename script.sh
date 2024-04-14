@@ -1,7 +1,5 @@
+#!/bin/bash
 
-
-docker container prune
-docker network prune -f
 docker network create front
 docker network create db
 docker network create kaf
