@@ -1,23 +1,27 @@
 # Clinic-Reservation-System
 
-# Overview
+## Overview
 a Containerized Software Application for patients to easily schedule appointments online through a user-friendly interface, selecting their preferred date, time, and healthcare provider
 and doctors to assign appoinments
 
-# Stack
+## Stack
 Frontend → Angular  
 Backend → Flask Framework  
 DB → MongoDB
 
-# Features
+## Features
 - Signup / Sign in for each role (Doctor and Patient)
-- Doctor Role
-    -
-2- Doctor can insert, edit or cancel a slot
-4- Doctor get notified when a patient reserve, update or cancel a reservation.
-3- Patient can view all Doctor and their slots
-4- Patient can choose, update or Cancel their slot
-5- Patient can view all his aappointments
+- Doctor 
+    - insert, edit or cancel a slot
+    - notified when a patient reserve, update or cancel a reservation.
+  
+- Patient
+  - view all Doctors and their slots
+  - choose, update or Cancel their reservation
+  - view all his aappointments
+
+  
+
 
 
 
