@@ -10,7 +10,9 @@ Backend → Flask Framework
 DB → MongoDB
 
 # Features
-1- Signup / Sign in for each role (Doctor and Patient)
+- Signup / Sign in for each role (Doctor and Patient)
+- Doctor Role
+    -
 2- Doctor can insert, edit or cancel a slot
 4- Doctor get notified when a patient reserve, update or cancel a reservation.
 3- Patient can view all Doctor and their slots
